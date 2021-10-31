@@ -5,5 +5,5 @@ if (confirm("Press ok to comfirm audio ")) {
   txt = "You dont like sound?";
 }
 function music(){
-  var music = new Audio('loud indian music.mp3');
+  var music = new Audio('beg.mp4');
  music.play();
